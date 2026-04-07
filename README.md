@@ -5,7 +5,7 @@ This repository summarizes common **security vulnerabilities in Web3 application
 The goal is to build a structured reference of real-world exploit patterns extracted from public security reports, bug bounty disclosures, and incident analyses.
 
 The repository collects examples of vulnerabilities observed in production blockchain systems and categorizes them by **root cause, attack vector, and security impact**.
-
+dsds
 ## Scope
 
 The summaries focus on vulnerabilities commonly found in Ethereum-based smart contracts, including:
